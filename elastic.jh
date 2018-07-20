@@ -1,0 +1,4 @@
+entity ElasticQuery {
+	quoi String,
+    ou String
+}
