@@ -1,0 +1,27 @@
+{
+    "name": "ActionFormation",
+    "fields": [
+        {
+            "fieldName": "intituleFormation",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "nombreHeuresTotal",
+            "fieldType": "Integer"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20180726092309",
+    "entityTableName": "action_formation",
+    "dto": "no",
+    "pagination": "pagination",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}
