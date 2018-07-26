@@ -2,3 +2,11 @@ entity ElasticQuery {
 	quoi String,
     ou String
 }
+
+entity ActionFormation {
+	intituleFormation String,
+    description String,
+    nombreHeuresTotal Integer
+}
+
+paginate ActionFormation with pagination
